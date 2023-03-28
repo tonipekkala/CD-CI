@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node src",
-    "test": "jest calculator.test.js"
+    "test": "jest app.test.js"
   },
   "repository": {
     "type": "git",

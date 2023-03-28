@@ -1,12 +1,12 @@
-/*const app =  require( "./app");
+const app =  require( "./app");
 const calculator = require('./calculator');
 const http = require('http');
 const port = process.env.PORT || 3000;
 
 app.listen(port, () =>
   console.log('Example app listening on port 3000!'),
-);*/
-
+);
+/*
 const http = require('http');
 const qs = require('querystring');
 const calculator = require('./calculator');
@@ -47,3 +47,4 @@ const server = http.createServer((request, response) => {
 
 server.listen(port, host);
 console.log(`Listening at http://${host}:${port}`);
+*/
